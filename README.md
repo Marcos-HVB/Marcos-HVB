@@ -1,11 +1,12 @@
 ### Olá! Eu sou o Marcos Henrique 🖐
 
+<div style="display: flex;">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_hvb/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-HVB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-HVB&langs_count=7&theme=radical"/>
 
-![Marcos-HVB GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-HVB&show_icons=true&theme=radical)
-
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
