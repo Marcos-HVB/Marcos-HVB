@@ -5,7 +5,7 @@
 
 <div style="display: flex;">
 
-[![Marcos-HVB GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-HVB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-HVB&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-HVB&langs_count=7&theme=radical"/>
 
