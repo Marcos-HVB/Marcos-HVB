@@ -3,11 +3,9 @@
 - Análise e Desenvolvimento de Sistemas: 1/4 <br>
 - SPTech
 
-<div style="display: flex;">
-
+<div >
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-HVB&theme=radical" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-HVB&layout=compact&langs_count=7&theme=radical"/>
-
 </div>
 
 ## Tecnologias que eu uso no meu dia
