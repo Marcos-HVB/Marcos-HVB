@@ -4,10 +4,10 @@
 - Análise e Desenvolvimento de Sistemas: 2/4 <br>
 
 
-<div >
+<!-- <div >
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-HVB&theme=radical" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-HVB&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 
 ## Tecnologias que eu uso no meu dia
 
